@@ -94,7 +94,7 @@ section{
 
 
 .home{
-   background: url(./vvv.jpg) no-repeat;
+   background: url(./) no-repeat;
     min-height: 100vh;
     display: flex;
     background-size: cover;
